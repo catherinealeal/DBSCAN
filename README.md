@@ -1,4 +1,4 @@
-# DBSCAN
+# DBSCAN Clustering
 
 ## Goal 
 
